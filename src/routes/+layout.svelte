@@ -7,7 +7,7 @@ import { openModal } from "../store";
   
   import Header from "../components/Header.svelte";
 
-
+import Footer from "../components/footer.svelte"
 
   let y;
   $: outerHeight = 0;
