@@ -4,8 +4,7 @@ import { openModal } from "../store";
 
   import "../app.css";
  import Cta from "../components/CTA.svelte";
-  
-  import Header from "../components/Header.svelte";
+ import Header from "../components/header.svelte"
 
 import Footer from "../components/footer.svelte"
 

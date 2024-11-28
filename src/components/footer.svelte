@@ -12,7 +12,8 @@
 <div class="flex flex-col gap-4 ">
 <p class="font-bold poppins text-base sm:text-lg"> Support     
 </p>
-<a  target="blank"  href="" 
+<a  target="blank"  href="#" 
+
 
 class="cursor-pointer hover:text-indigo-400 duration-200"
 
@@ -25,7 +26,7 @@ class="cursor-pointer hover:text-indigo-400 duration-200"
     <p class="font-bold poppins text-base sm:text-lg"> Read Our Blogs
     </p>
    
-    <a  target="blank"  href="" 
+    <a  target="blank"  href="#" 
     
     class="cursor-pointer hover:text-indigo-400 duration-200"
     
@@ -38,7 +39,7 @@ class="cursor-pointer hover:text-indigo-400 duration-200"
 <div class="flex flex-col gap-4 ">
     <p class="font-bold poppins text-base sm:text-lg">Follow Us   
     </p>
-    <a  target="blank"  href="" 
+    <a  target="blank" href="#" 
     
     class="cursor-pointer hover:text-indigo-400 duration-200"
     
@@ -46,7 +47,7 @@ class="cursor-pointer hover:text-indigo-400 duration-200"
     <i class="fa-brands fa-instagram pr-2"></i>
     
     Instagram</a>
-    <a  target="blank"  href="" 
+    <a  target="blank"  href="#" 
     
     class="cursor-pointer hover:text-indigo-400 duration-200"
     
@@ -54,7 +55,7 @@ class="cursor-pointer hover:text-indigo-400 duration-200"
     <i class="fa-brands fa-youtube pr-2"></i>
     
     Youtube</a>
-    <a  target="blank"  href="" 
+    <a  target="blank"  href="#" 
     
     class="cursor-pointer hover:text-indigo-400 duration-200"
     
@@ -62,7 +63,7 @@ class="cursor-pointer hover:text-indigo-400 duration-200"
     <i class="fa-brands fa-facebook pr-2"></i>
     
     facebook </a>
-    <a  target="blank"  href="" 
+    <a  target="blank"  href="#" 
     
     class="cursor-pointer hover:text-indigo-400 duration-200"
     

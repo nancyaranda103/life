@@ -1,6 +1,6 @@
 <script>
 import SectionWrapper from "./SectionWrapper.svelte";
-import Header from "./header.svelte";
+import Header from "./header.svelte"
 import CTA from "./CTA.svelte"
 
 </script>
