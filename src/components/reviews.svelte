@@ -1,5 +1,5 @@
 <script>
-    import ReviewCard from "./ReviewCard.svelte";
+    import ReviewCard from "./reviewCard.svelte";
     import SectionWrapper from "./SectionWrapper.svelte";
     import Stars from "./stars.svelte";
 
