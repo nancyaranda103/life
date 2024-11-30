@@ -4,7 +4,7 @@ import SectionWrapper from "./SectionWrapper.svelte";
 
 let faqs = [
         {
-            question: "What is Swoley Mol",
+            question: "What is woley Mol",
             ans: "Swoley Moley uokkk is a fun fitness app designed to make your workouts enjoyable by incorporating interactive games and challenges.",
         },
         {
